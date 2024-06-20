@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://traideric.github.io/sitemap
+Sitemap: https://traideric.github.io/app/sitemap
+Sitemap: https://traideric.github.io/assets/sitemap
+Sitemap: https://traideric.github.io/css/sitemap
+Sitemap: https://traideric.github.io/includes/sitemap
+Sitemap: https://traideric.github.io/item/sitemap
+Sitemap: https://traideric.github.io/src/sitemap
